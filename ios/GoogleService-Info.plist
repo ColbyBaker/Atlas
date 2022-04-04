@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>898629986115-4m5l6j425am7p2i3cv9cn5jjl6jkqv28.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.898629986115-4m5l6j425am7p2i3cv9cn5jjl6jkqv28</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>898629986115-ver0e7pfspf6e3ro0ibbshrb2i1333ai.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA8DeE0-A34R-Ha2AjtoWVXqEg-Kt2ElcM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>898629986115</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.colbybaker.atlas</string>
+	<key>PROJECT_ID</key>
+	<string>atlas-fit</string>
+	<key>STORAGE_BUCKET</key>
+	<string>atlas-fit.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:898629986115:ios:e1119fa8e0d0b492a5f1f6</string>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "898629986115",
+    "project_id": "atlas-fit",
+    "storage_bucket": "atlas-fit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898629986115:android:f25c974aa9d433f1a5f1f6",
+        "android_client_info": {
+          "package_name": "com.colbybaker.atlas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898629986115-ver0e7pfspf6e3ro0ibbshrb2i1333ai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.colbybaker.atlas",
+            "certificate_hash": "5296afef33fe415942190aae86c170cf4de52810"
+          }
+        },
+        {
+          "client_id": "898629986115-3jrl5htchnv1bo0iv53j0pom41dej0e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6MGDZv8wJAfotIG3Vw4Oc1bCGOYJpEW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898629986115-3jrl5htchnv1bo0iv53j0pom41dej0e0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "898629986115-4m5l6j425am7p2i3cv9cn5jjl6jkqv28.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.colbybaker.atlas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
